@@ -1,11 +1,9 @@
 # Huy Q. Nguyen 👦🏻
-🖖 Hi, my name is Huy. I am a frontend-developer / designer 💻. 
+🖖 Hi, my name is Huy. I am a frontend-developer / designer 💻
 
-I am a Vietnamese from Quy Nhơn 🌊, currently living in Houston, US 🌳. 
+I am a Vietnamese from Quy Nhơn 🌊, currently living in Houston, US 🌳
 
-Outside of my office hours, I like to think and work with Vietnamese devs community ⌨
-
-to build & ship software for Vietnamese and the world 🚀. 
+I like to build, ship and sell my own software for Vietnamese and the world 🚀
 
 I believe in kindness, integrity and public transportation powered bots ❤️ 
 

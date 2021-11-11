@@ -1,4 +1,4 @@
-# Huy Q. Nguyen 👦🏻 🖖 
+# Huy Q. Nguyen 👦🏻
 Hi, my name is Huy. I am a frontend-developer / designer 💻
 
 I am a Vietnamese from Quy Nhơn 🌊, currently living in Houston, US 🚀
